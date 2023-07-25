@@ -1,9 +1,4 @@
 # ❄ Jayflake
-
-A Java implementation similar to Twitter's now deprecated [Snowflake ID](https://blog.twitter.com/engineering/en_us/a/2010/announcing-snowflake) 
-that is thread-safe. Note that this is only the library for 
-generating the ids. It does not include a service that provides ids to calling backend services.
-
 > Note: This project does not include a backend service for id generation.
  
 ## Usage
